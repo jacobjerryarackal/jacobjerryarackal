@@ -53,17 +53,27 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <a href="https://github.com/jacobjerryarackal">
-    <img src="https://github-readme-stats.shion.dev/api?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/jacobjerryarackal">
-    <img src="https://streak-stats.demolab.com/?user=jacobjerryarackal&theme=dark&hide_border=false" height="165" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/jacobjerryarackal">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165" alt="Most Used Languages" />
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" align="left">
+  <tr>
+    <td style="padding-right: 15px;">
+      <a href="https://github.com/jacobjerryarackal">
+        <img src="https://github-readme-stats.shion.dev/api?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td style="padding-right: 15px;">
+      <a href="https://github.com/jacobjerryarackal">
+        <img src="https://streak-stats.demolab.com/?user=jacobjerryarackal&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jacobjerryarackal">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both"/>
 
 
 ## 🏆 GitHub Trophies
