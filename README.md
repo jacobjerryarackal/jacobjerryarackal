@@ -29,7 +29,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![]<img src="https://streak-stats.demolab.com/?user=jacobjerryarackal&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/><br/>
-![](https://streak-stats.demolab.com/?user=jacobjerryarackal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jacobjerryarackal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
