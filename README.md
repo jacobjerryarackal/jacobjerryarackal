@@ -1,4 +1,4 @@
-## Hi there, I am Jacob Jerry Arackal 👋
+## Hi there👋,
 
 <div align="center">
 
