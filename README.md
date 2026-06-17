@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GenAI+%26+MLOps+Engineer;Building+Agentic+AI+Systems;Productionizing+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GenAI+%26+MLOps+Engineer;Building+Agentic+AI+Systems;Productionizing+Machine+Learning;AI+%26+LLMOps+Engineer" alt="Typing SVG" />
 
 ### Jacob Jerry Arackal &nbsp;·&nbsp; AI Engineer
 
